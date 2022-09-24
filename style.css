@@ -16,7 +16,12 @@
   --p-font: 1.1rem;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
+  overflow: hidden;
   background: #fffbf6;
   color: #302e29;
 }
